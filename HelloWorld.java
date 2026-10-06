@@ -1,0 +1,6 @@
+// 1. Hello World & Environment Test
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World! JDK setup successful.");
+    }
+}

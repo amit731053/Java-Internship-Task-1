@@ -1,0 +1,29 @@
+--- HelloWorld ---
+Hello World! JDK setup successful.
+--- TemperatureConverter ---
+98.60?F = 37.00?C
+--- EvenOddChecker ---
+Odd
+--- MultiplicationTable ---
+5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+5 x 4 = 20
+5 x 5 = 25
+5 x 6 = 30
+5 x 7 = 35
+5 x 8 = 40
+5 x 9 = 45
+5 x 10 = 50
+--- DigitCounter ---
+Total digits: 5
+--- FibonacciSeries ---
+Fibonacci Series: 0 1 1 2 3 5 8 13 21 34 --- PrimeChecker ---
+29 is prime
+--- DayFinder ---
+Wednesday
+--- ArrayOperations ---
+Array sum: 22
+--- CircleOperations ---
+Circumference: 47.12
+Area: 176.71
